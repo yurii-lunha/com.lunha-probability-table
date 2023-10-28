@@ -1,16 +1,18 @@
-﻿{
-  "name": "Lunha.ProbabilityTable.Editor",
-  "rootNamespace": "Lunha.ProbabilityTable.Editor",
-  "references": [],
-  "includePlatforms": [
-    "Editor"
-  ],
-  "excludePlatforms": [],
-  "allowUnsafeCode": false,
-  "overrideReferences": false,
-  "precompiledReferences": [],
-  "autoReferenced": false,
-  "defineConstraints": [],
-  "versionDefines": [],
-  "noEngineReferences": false
+{
+    "name": "Lunha.ProbabilityTable.Editor",
+    "rootNamespace": "Lunha.ProbabilityTable.Editor",
+    "references": [
+        "GUID:8466b8b04dec6d846a79654f7424e401"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

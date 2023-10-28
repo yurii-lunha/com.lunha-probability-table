@@ -1,14 +1,16 @@
-﻿{
-  "name": "Lunha.ProbabilityTable.Runtime",
-  "rootNamespace": "Lunha.ProbabilityTable.Runtime",
-  "references": [],
-  "includePlatforms": [],
-  "excludePlatforms": [],
-  "allowUnsafeCode": false,
-  "overrideReferences": false,
-  "precompiledReferences": [],
-  "autoReferenced": false,
-  "defineConstraints": [],
-  "versionDefines": [],
-  "noEngineReferences": false
+{
+    "name": "Lunha.ProbabilityTable.Runtime",
+    "rootNamespace": "Lunha.ProbabilityTable.Runtime",
+    "references": [
+        "GUID:e78659d3b06b4ed49870b453b833508c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
