@@ -1,0 +1,14 @@
+﻿{
+  "name": "Lunha.ProbabilityTable.Runtime",
+  "rootNamespace": "Lunha.ProbabilityTable.Runtime",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

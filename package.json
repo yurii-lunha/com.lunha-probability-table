@@ -1,0 +1,22 @@
+{
+  "name": "com.lunha-probability-table",
+  "version": "0.0.1",
+  "description": "A table from which you can get an element with a certain probability.",
+  "displayName": "Lunha - Probability Table",
+  "unity": "2022.3",
+  "author": {
+    "name": "Yurii Lunha",
+    "email": "yurii.lunha.dev@gmail.com",
+    "url": "https://github.com/yurii-lunha/com.lunha-probability-table"
+  },
+  "changelogUrl": "https://github.com/yurii-lunha/com.lunha-probability-table",
+  "dependencies": {
+    "com.lunha-dev-kit": "0.0.2"
+  },
+  "documentationUrl": "https://github.com/yurii-lunha/com.lunha-probability-table",
+  "hideInEditor": true,
+  "keywords": ["random", "table"],
+  "license": "MIT",
+  "licensesUrl": "https://mit-license.org/",
+  "unityRelease": "10f1"
+}
