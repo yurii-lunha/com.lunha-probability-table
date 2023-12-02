@@ -1,6 +1,6 @@
 {
-  "name": "com.lunha-probability-table",
-  "version": "0.0.1",
+  "name": "@ylunha/com.lunha-probability-table",
+  "version": "0.0.2",
   "description": "A table from which you can get an element with a certain probability.",
   "displayName": "Lunha - Probability Table",
   "unity": "2022.3",
